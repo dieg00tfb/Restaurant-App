@@ -1,6 +1,7 @@
 # Restaurant Ordering App
 The Restaurant Ordering App allows you to effortlessly browse the menu, select your favorite dishes, and place an order for pickup—all from the convenience of your smartphone. Enjoy a seamless online ordering experience and simplify your dining experience with just a few taps or clicks!
-![app-homescreen](https://github.com/user-attachments/assets/b2d44fd7-6743-4f2c-9f18-c00628247d7b)
+
+<img src="https://github.com/user-attachments/assets/b2d44fd7-6743-4f2c-9f18-c00628247d7b" alt="app-homescreen" width="400"/>
 
 
 # Features
